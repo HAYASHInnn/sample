@@ -32,7 +32,7 @@ public final class Main extends JavaPlugin implements Listener {
   }
 
   /**
-   * プレイヤーがスニークを開始/終了する際に起動されるイベントハンドラ。 コメントを追加してみた
+   * プレイヤーがスニークを開始/終了する際に起動されるイベントハンドラ。
    *
    * @param e イベント
    */
@@ -91,4 +91,4 @@ public final class Main extends JavaPlugin implements Listener {
   }
 }
 
-
+//コメントを追加してみた

@@ -91,4 +91,4 @@ public final class Main extends JavaPlugin implements Listener {
   }
 }
 
-//コメントを追加してみたよ
+//コメントを変更してみた　テスト２
